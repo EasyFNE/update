@@ -1,0 +1,6 @@
+{
+  "version": "1.3.2",
+  "url": "https://yattarayman.github.io/EasyFNE-Updates/EasyFNE.zip",
+  "mandatory": true,
+  "changelog": "Ajout des filtres dans l'onglet Factures de vente."
+}
