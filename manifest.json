@@ -1,5 +1,5 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "url": "https://easyfne.github.io/update/EasyFNE.zip",
   "mandatory": true,
   "changelog": "Ajout des filtres dynamiques dans les factures de vente."
